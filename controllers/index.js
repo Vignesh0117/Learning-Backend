@@ -103,7 +103,6 @@ exports.createItem = async (req, res) => {
     res.status(201).json({
       success: true,
       message: "Data added successfully!",
-      data: newItem,
     });
   } catch (error) {
     res.status(500).json({
@@ -149,7 +148,6 @@ exports.updateItem = async (req, res) => {
     res.status(200).json({
       success: true,
       message: "Item updated successfully!",
-      data: item,
     });
   } catch (error) {
     res.status(500).json({
