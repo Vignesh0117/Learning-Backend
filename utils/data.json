@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 13",
+    "category": "Electronics",
+    "price": 999,
+    "inStock": true
+  },
+  {
+    "name": "Samsung s24 ultra",
+    "category": "Electronics",
+    "price": 20000,
+    "inStock": true,
+    "id": 2
+  },
+  {
+    "id": 4,
+    "name": "Apple iPhone 14 pro max",
+    "category": "Electronics",
+    "price": 74000,
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "name": "Apple iPhone 14 pro max",
+    "category": "Electronics",
+    "price": 74000,
+    "inStock": true
+  }
+]
